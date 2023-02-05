@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "86c1bvxzoBmS5vb5V2X4lE5iJDiq/PjrjjIJetXluHRkGsBq52Nigzp989j1prZQBxHUhMzIlJ6VaOTe9zcdRw==",
+  "success": true,
+  "projectFilePath": "/Users/arturarutunan/Downloads/10Task 2/10Laba/10Laba.csproj",
+  "expectedPackageFiles": [
+    "/Users/arturarutunan/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
